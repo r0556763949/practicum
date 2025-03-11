@@ -1,0 +1,6 @@
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Data\obj\Debug\net8.0\Practicum.Data.csproj.AssemblyReference.cache
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Data\obj\Debug\net8.0\Practicum.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Data\obj\Debug\net8.0\Practicum.Data.AssemblyInfoInputs.cache
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Data\obj\Debug\net8.0\Practicum.Data.AssemblyInfo.cs
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Data\obj\Debug\net8.0\Practicum.Data.csproj.CoreCompileInputs.cache
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Data\obj\Debug\net8.0\Practicum.Data.sourcelink.json

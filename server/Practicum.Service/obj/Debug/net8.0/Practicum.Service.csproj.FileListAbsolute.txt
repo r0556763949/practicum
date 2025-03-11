@@ -1,0 +1,16 @@
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\bin\Debug\net8.0\Practicum.Service.deps.json
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\bin\Debug\net8.0\Practicum.Service.dll
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\bin\Debug\net8.0\Practicum.Service.pdb
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\bin\Debug\net8.0\Practicum.Core.dll
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\bin\Debug\net8.0\Practicum.Core.pdb
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicum.Service.csproj.AssemblyReference.cache
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicum.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicum.Service.AssemblyInfoInputs.cache
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicum.Service.AssemblyInfo.cs
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicum.Service.csproj.CoreCompileInputs.cache
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicum.Service.sourcelink.json
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicu.4D4A796A.Up2Date
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicum.Service.dll
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\refint\Practicum.Service.dll
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\Practicum.Service.pdb
+C:\רותי לימודים\שנה ב\פרקטיקום\code\server\Practicum.Service\obj\Debug\net8.0\ref\Practicum.Service.dll

@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F07449-DC43-47FB-9DAE-D90773FE9479}|..\\Practicum.Service\\Practicum.Service.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.service\\services\\remarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\controllers\\remarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|solutionrelative:controllers\\remarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456FDFAB-D5AB-45C3-BAA3-E82CA61D9FC6}|..\\Practicum.Core\\Practicum.Core.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.core\\irepositories\\iremarkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\controllers\\programfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|solutionrelative:controllers\\programfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F07449-DC43-47FB-9DAE-D90773FE9479}|..\\Practicum.Service\\Practicum.Service.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.service\\services\\programfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F07449-DC43-47FB-9DAE-D90773FE9479}|..\\Practicum.Service\\Practicum.Service.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.service\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456FDFAB-D5AB-45C3-BAA3-E82CA61D9FC6}|..\\Practicum.Core\\Practicum.Core.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.core\\irepositories\\iprogramfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456FDFAB-D5AB-45C3-BAA3-E82CA61D9FC6}|..\\Practicum.Core\\Practicum.Core.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.core\\irepositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F07449-DC43-47FB-9DAE-D90773FE9479}|..\\Practicum.Service\\Practicum.Service.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.service\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307C1288-62A7-4013-847C-D149D7AEC24A}|practicum-server.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F07449-DC43-47FB-9DAE-D90773FE9479}|..\\Practicum.Service\\Practicum.Service.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.service\\practicum.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\repositories\\remarkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\repositories\\programfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456FDFAB-D5AB-45C3-BAA3-E82CA61D9FC6}|..\\Practicum.Core\\Practicum.Core.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.core\\irepositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456FDFAB-D5AB-45C3-BAA3-E82CA61D9FC6}|..\\Practicum.Core\\Practicum.Core.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.core\\practicum.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\practicum.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456FDFAB-D5AB-45C3-BAA3-E82CA61D9FC6}|..\\Practicum.Core\\Practicum.Core.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F07449-DC43-47FB-9DAE-D90773FE9479}|..\\Practicum.Service\\Practicum.Service.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:19:26.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReMarkController.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ReMarkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReMarkController.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ReMarkController.cs",
+              "RelativeToolTip": "Controllers\\ReMarkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:18:29.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReMarkService.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ReMarkService.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Service\\Services\\ReMarkService.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ReMarkService.cs",
+              "RelativeToolTip": "..\\Practicum.Service\\Services\\ReMarkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:17:10.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramFileController.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ProgramFileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProgramFileController.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ProgramFileController.cs",
+              "RelativeToolTip": "Controllers\\ProgramFileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:15:58.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgramFileService.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ProgramFileService.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Service\\Services\\ProgramFileService.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ProgramFileService.cs",
+              "RelativeToolTip": "..\\Practicum.Service\\Services\\ProgramFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:14:36.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:07:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Service\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ProjectService.cs",
+              "RelativeToolTip": "..\\Practicum.Service\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:04:21.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Data\\DataContext.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\DataContext.cs",
+              "RelativeToolTip": "..\\Practicum.Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:50:18.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:01:58.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Service\\Services\\ClientService.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ClientService.cs",
+              "RelativeToolTip": "..\\Practicum.Service\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:57:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReMarkRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IReMarkRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Core\\IRepositories\\IReMarkRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IReMarkRepository.cs",
+              "RelativeToolTip": "..\\Practicum.Core\\IRepositories\\IReMarkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:05:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Practicum.Service",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Practicum.Service.csproj",
+              "RelativeDocumentMoniker": "..\\Practicum.Service\\Practicum.Service.csproj",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Practicum.Service.csproj",
+              "RelativeToolTip": "..\\Practicum.Service\\Practicum.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T20:06:57.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Core\\IRepositories\\IProjectRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IProjectRepository.cs",
+              "RelativeToolTip": "..\\Practicum.Core\\IRepositories\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:05:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProgramFileRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IProgramFileRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Core\\IRepositories\\IProgramFileRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IProgramFileRepository.cs",
+              "RelativeToolTip": "..\\Practicum.Core\\IRepositories\\IProgramFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:06:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Data\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "..\\Practicum.Data\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:58:24.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProgramFileRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ProgramFileRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Data\\Repositories\\ProgramFileRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ProgramFileRepository.cs",
+              "RelativeToolTip": "..\\Practicum.Data\\Repositories\\ProgramFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:00:14.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Data\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "..\\Practicum.Data\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:58:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReMarkRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ReMarkRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Data\\Repositories\\ReMarkRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ReMarkRepository.cs",
+              "RelativeToolTip": "..\\Practicum.Data\\Repositories\\ReMarkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:59:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Core\\IRepositories\\IClientRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IClientRepository.cs",
+              "RelativeToolTip": "..\\Practicum.Core\\IRepositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:04:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Practicum.Core",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\Practicum.Core.csproj",
+              "RelativeDocumentMoniker": "..\\Practicum.Core\\Practicum.Core.csproj",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\Practicum.Core.csproj",
+              "RelativeToolTip": "..\\Practicum.Core\\Practicum.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T19:56:25.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Practicum.Data",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Practicum.Data.csproj",
+              "RelativeDocumentMoniker": "..\\Practicum.Data\\Practicum.Data.csproj",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Practicum.Data.csproj",
+              "RelativeToolTip": "..\\Practicum.Data\\Practicum.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T19:06:42.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Core\\Class1.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\Class1.cs",
+              "RelativeToolTip": "..\\Practicum.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:38:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Data\\Class1.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Class1.cs",
+              "RelativeToolTip": "..\\Practicum.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:38:36.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Service\\Class1.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Class1.cs",
+              "RelativeToolTip": "..\\Practicum.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:37:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

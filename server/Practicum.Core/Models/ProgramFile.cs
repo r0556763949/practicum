@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Practicum.Data.Models
 {
-    internal class ProgramFile
+    public class ProgramFile
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string Path { get; set; }
+        public DateOnly CreateAt { get; set; }
+        public Client Creator { get; set; }
+        public List<ReMark> ReMarks { get; set; }
     }
 }

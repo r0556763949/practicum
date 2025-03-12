@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Practicum.Data.Models
 {
-    internal class ReMark
+    public class ReMark
     {
+        public int Id { get; set; }
+        public string Description { get; set; }
+        public string Path { get; set; }
+        public DateOnly CreateAt { get; set; }
+        public Client Creator { get; set; }
+
     }
 }

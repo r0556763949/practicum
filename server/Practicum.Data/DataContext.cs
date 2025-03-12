@@ -1,4 +1,5 @@
-﻿using Practicum.Data.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using Practicum.Data.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,15 +8,15 @@ using System.Threading.Tasks;
 
 namespace Practicum.Data
 {
-    public class DataContext
+    public class DataContext:DbContext
     {
-        public List<Client> Clients { get; set; }
-        public List<Project> Projects { get; set; }
-        public List<ProgramFile> ProgramFiles { get; set; }
-        public List<ReMark> ReMarks { get; set; }
-        public DataContext()
+        public DbSet<Client> Clients { get; set; }
+        public DbSet<Project> Projects { get; set; }
+        public DbSet<ProgramFile> ProgramFiles { get; set; }
+        public DbSet<ReMark> ReMarks { get; set; }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            Clients = new List<Client>
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=sample_db");
         }
     }
 }

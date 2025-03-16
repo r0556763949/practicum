@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practicum-server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+751bd04bf220f2f2d59e260b431cf31f08514d09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eac91ce62bba7490524e8983cc4f7559b139e16")]
 [assembly: System.Reflection.AssemblyProductAttribute("practicum-server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practicum-server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

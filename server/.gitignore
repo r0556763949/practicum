@@ -1,4 +1,4 @@
-# Visual Studio
+# Visual Studio specific
 .vs/
 *.suo
 *.user
@@ -9,8 +9,10 @@
 bin/
 obj/
 out/
-*.dll
+Debug/
+Release/
 *.exe
+*.dll
 *.pdb
 *.cache
 *.ilk
@@ -23,23 +25,42 @@ out/
 *.mdf
 *.ldf
 *.bak
+*.pri
+*.ipch
+*.iobj
+*.ipdb
 
 # NuGet
 *.nupkg
-project.lock.json
 packages/
+project.lock.json
 .nuget/
 NUGET_BACKUP/
+global.json
 
 # Entity Framework Migrations
 Migrations/
 
-# ASP.NET specific
+# ASP.NET Core specific
 appsettings.Development.json
 appsettings.Local.json
 appsettings.Production.json
 appsettings.Staging.json
 secrets.json
+secrets/
+publish/
+wwwroot/
+
+# Logs and debugging
+logs/
+*.log
+*.tlog
+*.dmp
+hs_err_pid*
+
+# Rider & JetBrains
+.idea/
+*.dotCover
 
 # AWS & Cloud Credentials
 .env
@@ -49,23 +70,16 @@ secrets.json
 *.config
 aws-credentials.json
 
-# Logs
-logs/
-*.log
-*.tlog
+# Node.js (במידה ומשתמשים ב-Frontend עם Node.js בתוך הפרויקט)
+node_modules/
+npm-debug.log
+yarn-error.log
 
-# Rider & JetBrains
-.idea/
-*.dotCover
+# Python virtual environments (במידה ויש)
+venv/
+__pycache__/
 
-# Other
+# Other OS-specific files
 Thumbs.db
 .DS_Store
-# Debug and Release Folders
-Debug/
-Release/
-x64/
-x86/
-ARM/
-ARM64/
 

@@ -61,3 +61,11 @@ logs/
 # Other
 Thumbs.db
 .DS_Store
+# Debug and Release Folders
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+

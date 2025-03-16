@@ -1,0 +1,63 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.opensdf
+*.sdf
+*.mdf
+*.ldf
+*.bak
+
+# NuGet
+*.nupkg
+project.lock.json
+packages/
+.nuget/
+NUGET_BACKUP/
+
+# Entity Framework Migrations
+Migrations/
+
+# ASP.NET specific
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+appsettings.Staging.json
+secrets.json
+
+# AWS & Cloud Credentials
+.env
+*.aws/
+*.boto/
+*.credentials
+*.config
+aws-credentials.json
+
+# Logs
+logs/
+*.log
+*.tlog
+
+# Rider & JetBrains
+.idea/
+*.dotCover
+
+# Other
+Thumbs.db
+.DS_Store

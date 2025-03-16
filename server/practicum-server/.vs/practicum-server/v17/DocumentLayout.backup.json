@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77F07449-DC43-47FB-9DAE-D90773FE9479}|..\\Practicum.Service\\Practicum.Service.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.service\\services\\remarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -68,9 +71,6 @@
       "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\practicum.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BF577EF-66D5-4941-8B88-A83473D5FDBD}|..\\Practicum.Data\\Practicum.Data.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{456FDFAB-D5AB-45C3-BAA3-E82CA61D9FC6}|..\\Practicum.Core\\Practicum.Core.csproj|c:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -87,11 +87,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ReMarkController.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ReMarkController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReMarkController.cs",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReMarkService.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ReMarkService.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Service\\Services\\ReMarkService.cs",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProgramFileController.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ProgramFileController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProgramFileController.cs",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProgramFileService.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ProgramFileService.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Service\\Services\\ProgramFileService.cs",
@@ -156,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
@@ -169,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ProjectService.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Service\\Services\\ProjectService.cs",
@@ -182,7 +182,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\Practicum.Data\\DataContext.cs",
+              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\DataContext.cs",
+              "RelativeToolTip": "..\\Practicum.Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:50:18.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ClientController.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\practicum-server\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
@@ -195,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ClientService.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Services\\ClientService.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Service\\Services\\ClientService.cs",
@@ -208,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IReMarkRepository.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IReMarkRepository.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Core\\IRepositories\\IReMarkRepository.cs",
@@ -221,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Practicum.Service",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Service\\Practicum.Service.csproj",
               "RelativeDocumentMoniker": "..\\Practicum.Service\\Practicum.Service.csproj",
@@ -234,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IProjectRepository.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Core\\IRepositories\\IProjectRepository.cs",
@@ -247,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IProgramFileRepository.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IProgramFileRepository.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Core\\IRepositories\\IProgramFileRepository.cs",
@@ -260,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ClientRepository.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ClientRepository.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Data\\Repositories\\ClientRepository.cs",
@@ -273,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ProgramFileRepository.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ProgramFileRepository.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Data\\Repositories\\ProgramFileRepository.cs",
@@ -286,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ProjectRepository.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ProjectRepository.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Data\\Repositories\\ProjectRepository.cs",
@@ -299,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ReMarkRepository.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Repositories\\ReMarkRepository.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Data\\Repositories\\ReMarkRepository.cs",
@@ -312,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IClientRepository.cs",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\IRepositories\\IClientRepository.cs",
               "RelativeDocumentMoniker": "..\\Practicum.Core\\IRepositories\\IClientRepository.cs",
@@ -325,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Practicum.Core",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Core\\Practicum.Core.csproj",
               "RelativeDocumentMoniker": "..\\Practicum.Core\\Practicum.Core.csproj",
@@ -339,19 +352,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "..\\Practicum.Data\\DataContext.cs",
-              "ToolTip": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\DataContext.cs",
-              "RelativeToolTip": "..\\Practicum.Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:50:18.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Practicum.Data",
               "DocumentMoniker": "C:\\\u05E8\u05D5\u05EA\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD\\code\\server\\Practicum.Data\\Practicum.Data.csproj",
               "RelativeDocumentMoniker": "..\\Practicum.Data\\Practicum.Data.csproj",
